@@ -1,1 +1,1 @@
-# bitcoin_tracker
+# bitcoin-tracker
